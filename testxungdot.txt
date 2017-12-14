@@ -1,2 +1,1 @@
-// code xuong dot 1
-// code xuong dot 2
+//code da merge
